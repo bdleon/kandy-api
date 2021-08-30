@@ -1,0 +1,37 @@
+{
+    "location":[
+        {
+            "id":1,
+            "address":"3543 Josefa Garden",
+            "squareFootage":5000
+        },
+        {
+            "id":2,
+            "address":"2448 Selena Village",
+            "squareFootage":5000
+        },
+        {
+            "id":3,
+            "address":"521 Bridgette Common",
+            "squareFootage":5000
+        }
+    ],
+    "productTypes":[
+        {
+            "id": 1,
+            "category":"Hard Candy"
+            
+        },
+        {
+            "id": 2,
+            "category":"Gum"
+            
+        },
+        {
+            "id": 3,
+            "category":"Chocolate"
+            
+        }
+        
+    ]
+}
